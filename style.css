@@ -32,7 +32,7 @@ img {
     text-decoration: none;
 }
 
-.nav-item:hover {
+.nav-item:hover, .footer-link:hover {
     cursor: pointer;
     color: #f41;
     text-decoration: underline;
@@ -93,3 +93,9 @@ td {
 .main-title {
     margin-bottom: 30px;
 }
+
+.footer-link {
+    color: white;
+    text-decoration: none;
+}
+
